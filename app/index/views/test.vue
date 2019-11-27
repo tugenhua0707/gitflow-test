@@ -14,7 +14,7 @@
   export default {
     data() {
       return {
-        datas: [5, 2, 3]
+        datas: [1, 5, 2, 3]
       }
     }
   }
